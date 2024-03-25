@@ -1,6 +1,6 @@
-name = "Леонид"
+name = "Саша"
 age = 17
-city = "Люберцы"
+city = "Москва"
 
 print("Меня зовут", name)
 print("Мне", age, "лет")
